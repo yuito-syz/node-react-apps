@@ -1,0 +1,17 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "coffee-script": "^1.12.7",
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "check": "node -v"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
